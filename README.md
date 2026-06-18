@@ -1,6 +1,6 @@
-<img align="right" width="260" src="./assets/profile-character.png" />
-
 # Hey 👋, I'm lixibin
+
+<img align="right" width="165" src="./assets/profile-character.png" alt="lixibin character" />
 
 I am currently working on AI and open-source projects.
 
